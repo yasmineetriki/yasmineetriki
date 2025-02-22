@@ -9,14 +9,7 @@
 ---
 
 ### 💡 **About Me**
-- 🌱 **Sustainability & Innovation Enthusiast**
-- 🏆 **Hackathon Winner (4x)**
-- 💼 **Co-founder of Wafeer (Eco-Friendly Fertilizer)**
-- 📊 **Business Analytics & IT Student**
 - 🎨 **Digital Artist & Designer**
-- 🚀 **Always learning & growing!**
-
----
 
 ### 🏆 **Achievements**
 <p align="center">
