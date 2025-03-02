@@ -1,26 +1,3 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! I'm Yassmine Triki 
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Student+Entrepreneur+%7C+Business+Analytics;Hackathon+Winner+%7C+Green+Innovator;Co-founder+of+Wafeer+%7C+Sustainability+Enthusiast" />
-</p>
-
----
-
-### 💡 **About Me**
-- 🎨 **Digital Artist & Designer**
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
